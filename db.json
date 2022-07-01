@@ -1,0 +1,64 @@
+{
+  "admin": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "nama_lengkap": "user1",
+      "email": "user1@mail.com",
+      "password": "user1"
+    },
+    {
+      "email": "ahmad@mail.com",
+      "password": "ahmad",
+      "nama_lengkap": "ahmad",
+      "id": 2
+    },
+    {
+      "email": "ahmad@mail.com",
+      "password": "ahmad",
+      "id": 3
+    }
+  ],
+  "aut": [
+    {
+      "email": "ahmad@mail.com",
+      "password": "ahmad",
+      "id": 3
+    },
+    {
+      "email": "ahmad@mail.com",
+      "password": "ahmad",
+      "id": 4
+    }
+  ],
+  "login": [
+    {
+      "email": "ahmad@mail.com",
+      "password": "ahmad",
+      "id": 3
+    },
+    {
+      "email": "ahmad@mail.com",
+      "password": "ahmad",
+      "id": 4
+    }
+  ],
+  "laporan": [
+    {
+      "nama_lengkap": "test",
+      "tanggal_lahir": "2022-06-30",
+      "email": "test@mail.com",
+      "no_hp": "123123",
+      "file": "sip",
+      "catatan": "oke",
+      "status": "Accept",
+      "id": 12
+    }
+  ]
+}
